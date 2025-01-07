@@ -5,7 +5,13 @@ One is: VS16 & VS17 x64 and install it.
 Another is: VS17 x64 Non Thread Safe ()
 Zip [MB] and unzip the file and paste on C drive.
 
-Then go to vs code and install to extensions 1. code runner and 2. php devsense. -->
+Spell Check: Extensions install 1. Code Spell checker(streetsidesoftware.code-spell-checker)
+
+Html:Extensions install 1. Auto Rename Tag(formulahendry.auto-rename-tag).
+
+PHP: Then go to vs code and install to extensions 1. code runner(formulahendry.code-runner) and 2. php devsense(devsense.phptools-vscode) and 3. php intellisense(zobo.php-intellisense) and 4.php server(brapifra.phpserver) and 5. PHP Intelephense(bmewburn.vscode-intelephense-client) and 6. PHP Debug(xdebug.php-debug). 
+
+MySQL: also we need some extensions for database 1. MySQL (cweijan.vscode-mysql-client2)-->
 
 <?php
 $numberOne = 10;
