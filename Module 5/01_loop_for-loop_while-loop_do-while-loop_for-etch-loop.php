@@ -1,5 +1,5 @@
 <?php
-// loop. loop mean a part of codes use another places. In php loop has some variant. For loop, while loop, do while loop.
+// loop: loop mean a part of codes use another places. In php loop has some variant. For loop, while loop, do while loop.
 
 //for loop
 for ($i = 100; $i <= 150; $i++){
@@ -8,7 +8,7 @@ for ($i = 100; $i <= 150; $i++){
     }
 }
 
-echo "\n";
+echo "<br>";
 
 for ($i = 100; $i <= 150; $i+=3){
     echo $i . "\n";
@@ -90,4 +90,3 @@ foreach($students as $student){
         echo "{$student[0]}" . "\n";
     }
 }
-
